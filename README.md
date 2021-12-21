@@ -1,6 +1,6 @@
-![screenshot] [snakegame.png]
+![Screenshot](snakegame.png)
 
-
+SOURCE CODE BELOW!
 
 
 # SnakeGame-Python
