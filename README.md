@@ -1,4 +1,4 @@
-![screenshot] [snakeimage1.png]
+![screenshot] [snakegame.png]
 
 
 
